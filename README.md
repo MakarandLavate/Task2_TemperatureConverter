@@ -1,2 +1,2 @@
-# Task2_TemperatureConerter
+# Task2_TemperatureConverter
 Temperature converter app using the HTML,CSS & Javascript.
